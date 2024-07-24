@@ -1,4 +1,5 @@
-**Preview Link: https://saglamqidalan.netlify.app/**
+**[View the live preview here](https://saglamqidalan.netlify.app/)**
+
 **Description:**
 On the given template implement these functionalities:
 (Template is located in **Homework** folder)
